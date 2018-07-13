@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Global Blackbelt Team
+        Romans Azure Global Blackbelt Team Change - Go Hawks
       </div>
       <div class="col-lg-6">
       </div>
